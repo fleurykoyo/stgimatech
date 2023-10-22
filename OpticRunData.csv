@@ -1,9 +1,3 @@
-Device/Serial Number:,2200021,Firmware:,V01.00.001.76bd6,Hardware:,4,Algorithm:,V00.00.024
-Script Name:,MainScript_V01.00.001_GAS,Script Time:,05/17/2023 16:25:57
-Run ID:,1694800627,Sample ID:,RPT5 5555 5561 2024 0626 534,Collection Tube ID:,RPT55555556120240626534,Cartridge ID:,RPCGAS33333364920240913881
-Start Time:,9/15/2023 11:26:05 AM,Stop Time:,9/15/2023 11:35:45 AM,Test Type:,SAMPLE,Run Status:,RUN_COMPLETE
-Result Classification:,Invalid,HEX Ct:,0,FAM Ct:,0
-PC UUID:,BFEBFBFF000506CA,Error Code:,0
 Time,Wavelength,Sequence #,OptAvg
 20230915182652,WL_2,1,7755
 20230915182652,WL_3,2,2991
